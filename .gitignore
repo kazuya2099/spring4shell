@@ -3,4 +3,5 @@
 /work/
 .classpath
 .project
-/.settings/
+/settings/
+.settings/org.eclipse.wst.common.component
